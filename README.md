@@ -1,2 +1,2 @@
-startbootstrap-shop-item
-========================
+Start Bootstrap - Shop Item
+=========
